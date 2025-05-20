@@ -1,27 +1,37 @@
-# IG422 หัวข้อพิเศษด้านเทคโนโลยี  
-**สาขาการออกแบบเชิงโต้ตอบและการพัฒนาเกม**  
-วิทยาลัยครีเอทีฟดีไซน์ แอนด์เอ็นเตอร์เทนเมนต์เทคโนโลยี  
-มหาวิทยาลัยธุรกิจบัณฑิตย์
+# IG422: Special Topics in Technology
+**Dhurakij Pundit University**  
+Interactive Design and Game Development Program
+College of Creative Design and Entertainment Technology
+
+![](https://raw.githubusercontent.com/banyapon/antdpugodotcourse/refs/heads/main/images/screenshot0.png)
 
 ---
 
-## 🎮 บทเรียนและแบบฝึกหัด: การพัฒนาเกมด้วย Godot Engine
+## 🎮 Game Development with Godot Engine
+This repository is created to support the IG422 course. It provides students with practical exercises, teaching materials, and examples for learning game development using the Godot Engine.
 
-โครงการนี้จัดทำขึ้นเพื่อสนับสนุนการเรียนการสอนรายวิชา IG422 โดยเนื้อหาประกอบด้วย:
+![](https://raw.githubusercontent.com/banyapon/antdpugodotcourse/refs/heads/main/images/screenshot1.png)
 
-- แบบฝึกหัดฝั่งผู้เรียน
-- ตัวอย่างโปรเจกต์จาก Godot Engine
-- ไฟล์สคริปต์ GDScript
-- สไลด์ประกอบการสอน
-- เอกสารคำอธิบายเพิ่มเติม
+## 📁 Contents
+- Student Exercises – Hands-on assignments to practice core concepts
+- Sample Projects – Demonstrations of key features using Godot
+- GDScript Files – Scripts for various gameplay mechanics
+- Slide Decks – Presentation materials used in class
+- Supplementary Docs – Additional explanations and reference guides
+  
+![](https://raw.githubusercontent.com/banyapon/antdpugodotcourse/refs/heads/main/images/screenshot2.png)
+
+![](https://raw.githubusercontent.com/banyapon/antdpugodotcourse/refs/heads/main/images/screenshot3.png)
 
 ---
 
-## 🧠 เหมาะสำหรับผู้ที่...
+## 🧠 Who Is This For?
 
-- สนใจเริ่มต้นพัฒนาเกมด้วย **Godot Engine**
-- ศึกษาแนวทางการเขียน **GDScript**
-- เรียนรู้ระบบ Scene, Node และ Physics ของ Godot
-- ต้องการสร้างเกม 2D/3D แบบอินเทอร์แอคทีฟ
+![](https://raw.githubusercontent.com/banyapon/antdpugodotcourse/refs/heads/main/images/screenshot4.png)
 
+This course and repository are ideal for:
+- Beginners who want to start developing games using Godot
+- Learners interested in mastering GDScript
+- Students who want to explore Godot’s Scene, Node, and Physics systems
+- Creators aiming to build interactive 2D/3D games
 ---
