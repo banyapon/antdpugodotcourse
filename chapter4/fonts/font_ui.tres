@@ -1,0 +1,6 @@
+[gd_resource type="TextMesh" load_steps=2 format=3 uid="uid://candkb4wrrli8"]
+
+[ext_resource type="FontFile" uid="uid://br6gmkdi7ypna" path="res://fonts/UpheavalPro.ttf" id="1_co4xd"]
+
+[resource]
+font = ExtResource("1_co4xd")
